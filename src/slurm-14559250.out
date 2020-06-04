@@ -1,0 +1,5 @@
+gcc: error: main.c: No such file or directory
+gcc: warning: ‘-x c’ after last input file has no effect
+gcc: fatal error: no input files
+compilation terminated.
+/var/spool/slurm/job14559250/slurm_script: line 5: ./strange: No such file or directory
